@@ -48,6 +48,28 @@ Open the `ALY_6040_Group_4-Heart_Diease-EDA.ipynb` notebook in Jupyter to view t
 
 ![image](https://github.com/user-attachments/assets/7459b093-dbad-4b7a-a6ea-0c13c9a44f1f)
 
+![image](https://github.com/user-attachments/assets/cceff334-3f64-4bb6-8723-68509e6926a2)
+
+![image](https://github.com/user-attachments/assets/c11d4c3b-407a-4ac2-b82c-46ef6779bb42)
+
+![image](https://github.com/user-attachments/assets/2861eb5b-d24d-40af-b593-ba87bf4be09c)
+
+![image](https://github.com/user-attachments/assets/cb1bd212-a82b-4665-a882-4572781ae3de)
+
+![image](https://github.com/user-attachments/assets/49ea8eb0-e307-4aac-ae42-08653be5d993)
+
+![image](https://github.com/user-attachments/assets/b6c6d6f7-43e4-4011-94f9-4dcc0eccd23c)
+
+![image](https://github.com/user-attachments/assets/2c682cf9-817d-4342-a3ed-17c2ce5c28ad)
+
+![image](https://github.com/user-attachments/assets/fc22790e-0c22-4964-bb00-3ae0f40f218a)
+
+![image](https://github.com/user-attachments/assets/9f69d90b-ff5a-4686-a29b-50e1778a8b7e)
+
+![image](https://github.com/user-attachments/assets/24ef391a-937e-436c-a417-1b67b53ab1d8)
+
+![image](https://github.com/user-attachments/assets/3bda8372-85c4-46d2-bac5-4d60279d4e50)
+
 
 ## Data Description
 
