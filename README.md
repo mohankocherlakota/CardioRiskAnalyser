@@ -89,6 +89,16 @@ The dataset includes various health-related features such as:
 
 The project uses a Random Forest classifier for predicting heart disease risk. The model is trained on preprocessed data and saved as `random_forest_model.pkl`.
 
+## Demo 
+
+![Screenshot 2025-01-14 at 10 06 59 AM](https://github.com/user-attachments/assets/fbd5cbf8-4e55-42f0-a657-11db9fb5a6d6)
+
+![Screenshot 2025-01-14 at 10 07 43 AM](https://github.com/user-attachments/assets/f503eab4-23b1-4ec2-89c1-229cfed8f3a0)
+
+![Screenshot 2025-01-14 at 10 08 05 AM](https://github.com/user-attachments/assets/5182fb81-e277-4164-86e3-983deff75f5c)
+
+
+
 ## Files Description
 
 1. `heart_disease_prediction.py`:
@@ -101,21 +111,10 @@ The project uses a Random Forest classifier for predicting heart disease risk. T
 
 3. `ALY_6040_Group_4-Heart_Diease-EDA.ipynb`:
    - Jupyter notebook with detailed EDA
-   - Includes data cleaning, feature engineering, and visualization
-
-4. `Kocherlakota_Module_1_Assignment.ipynb`:
-   - Contains basic Python exercises (not directly related to the main project)
+   - Includes data cleaning, feature engineering, and visualizatio
 
 ## Contributing
 
 Contributions to improve the model accuracy, extend the feature set, or enhance the web application are welcome. Please follow the standard fork-and-pull request workflow.
 
-## License
 
-[Specify the license here, e.g., MIT, GPL, etc.]
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/43151071/1f751afa-03df-4f89-841c-6dfeab2af1e3/heart_disease_prediction.py
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/43151071/8847a663-ddc2-4638-8c67-e4a0dd8405a2/requirements.txt
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/43151071/b893efc7-1fd7-46e8-a774-a727b32a1c70/ALY_6040_Group_4-Heart_Diease-EDA.ipynb
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/43151071/70ed7add-7dbd-45ef-91ca-04bade3c31e7/Kocherlakota_Module_1_Assignment.ipynb
